@@ -55,7 +55,7 @@ jobs:
         with:
           name: ios-framework-main
           path: |
-            bundle-apple-xcframework-ios
+            ffmpeg-kit
 
   # build-main-on-macos-bigsur:
   #   name: ios main on big sur

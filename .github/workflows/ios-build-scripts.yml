@@ -26,8 +26,8 @@ on:
       - 'apple.sh'
       - 'ios.sh'
 
-  env:
-    ART_NAME: ffmpeg-kit-ios-framework.zip
+env:
+  ART_NAME: ffmpeg-kit-ios-framework.zip
 
 jobs:
   build-main-on-macos-monterey:
